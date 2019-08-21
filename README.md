@@ -1,3 +1,5 @@
+Fork of CMU MultimodalDataSDK, reverted to an old commit (Mar 26 2018)
+
 # News
 Test set of CMU-MOSEI is now released!
 
